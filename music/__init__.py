@@ -1,1 +1,1 @@
-from .musicCommands import *
+from .musicClass import *
